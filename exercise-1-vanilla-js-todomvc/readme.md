@@ -24,6 +24,12 @@ That doesn't happen, because I broke it, just for you, so you can practice your 
 
 Can you get it working again?
 
-## Debugging Solution
+## Hints
+
+- For the first bug, the console error tells you all that you need to know!
+- For the second bug, you'll need to work a little harder to connect the dots, but the console error is a major clue.
+- Each bug is the result of a simple typing mistake, not an error in logic.
+
+## Solution
 
 Video coming soon
